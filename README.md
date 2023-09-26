@@ -1,1 +1,3 @@
 # Car-Price-Prediction-and-Model-Evaluation
+
+This project involves predicting car prices using various car components and accessories as independent variables. It explores three regression techniques: linear, ridge, and lasso regression, aiming to strike a balance between model complexity , finding the lamdha value and overfitting. Through thorough analysis and hyperparameter tuning with grid cross-validation, we determine the best approach among the three for optimal accuracy and robustness. This experience underscores the importance of regularization in delivering accurate predictions for complex real-world scenarios.
